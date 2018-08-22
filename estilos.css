@@ -1,0 +1,41 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.contenedor{
+	margin: 20px auto;
+	width: 900px;
+	height: 100px;
+	outline: 2px solid green;
+}
+
+.cabecera_principal{
+	width: 100%;
+	outline: 1px solid green;
+}
+
+.a_c_cabecera{
+	width: 20%;
+	max-width: 20%;
+	outline: 1px solid green;
+}
+
+.logo{
+	background-image: url("dian_logo.png");
+	background-size: cover;
+	height:60px;
+}
+
+.texto_cabecera{
+	width: 30%;
+	max-width: 30%;
+}
+
+.cabecera_principal div {	
+	display: table-cell
+}
+
+.text_center{
+	
+}
